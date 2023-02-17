@@ -131,3 +131,5 @@ Soda SQL collects statistical usage and performance information via the [Open Te
 The collected information is strictly limited to usage and performance and does not contain Personal Identifying Information (PII). It is used for internal purposes only. Soda keeps the data in its raw form for a maximum of five years. If some information needs to be kept for longer, it will only be kept in aggregated form.
 
 Read more about the information Soda tracks, and learn how to opt-out of tracking by consulting the [Anonymous usage statistics](/docs/soda-sql/global-configuration.md) documentation.
+
+--simple update
